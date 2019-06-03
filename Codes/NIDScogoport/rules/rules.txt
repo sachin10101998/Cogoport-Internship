@@ -1,10 +1,3 @@
-alert udp any any -> 8.8.8.8 53 (msg:"DNS to google")
-alert udp any any -> 8.8.8.4 53 (msg:"DNS to google")
-alert udp any any -> any 123 (msg:"NTP")
-alert tcp any any -> any 123 (msg:"NTP")
-alert tcp 192.168.0.1 any -> 192.168.0.0/16 any (msg:"Gateway to subnet")
-
-
 alert icmp $EXTERNAL_NET any -> $HOME_NET any (msg:"DDOS TFN Probe"; icmp_id:678; itype:8; content:"1234"; reference:arachnids,443; classtype:attempted-recon; sid:221; rev:4;)
 alert icmp $EXTERNAL_NET any -> $HOME_NET any (msg:"DDOS tfn2k icmp possible communication"; icmp_id:0; itype:0; content:"AAAAAAAAAA"; reference:arachnids,425; classtype:attempted-dos; sid:222; rev:2;)
 alert udp $EXTERNAL_NET any -> $HOME_NET 31335 (msg:"DDOS Trin00 Daemon to Master PONG message detected"; content:"PONG"; reference:arachnids,187; classtype:attempted-recon; sid:223; rev:3;)
