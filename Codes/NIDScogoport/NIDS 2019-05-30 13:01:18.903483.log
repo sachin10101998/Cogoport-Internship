@@ -1,0 +1,250 @@
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=84, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=84, len=2)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=81, len=53)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=23, len=23)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=62, len=8)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=62, len=7)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=131, len=25)
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=131, len=25)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=17, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=43, len=2)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=633, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=43, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=633, len=2)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=590, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=25, len=23)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=10598, len=29)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=25, len=25)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=35, len=2)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=35, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=89, len=25)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=89, len=25)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=89, len=25)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=89, len=25)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=88, len=24)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=88, len=24)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=35, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=35, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=89, len=25)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=35, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=13076, len=53)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=10598, len=45)
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=89, len=25)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=84, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=84, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=35, len=2)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=13076, len=53)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=77, len=53)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=88, len=53)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=35, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=35, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=35, len=2)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:more DNS decompression loop detected
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:DNS RR prematured end (ofs=141, len=35)
+WARNING:scapy.runtime:more DNS RR prematured end (ofs=36, len=2)
+WARNING:scapy.runtime:DNS decompression loop detected
+WARNING:scapy.runtime:more DNS decompression loop detected
