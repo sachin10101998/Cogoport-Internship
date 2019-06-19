@@ -1,0 +1,3 @@
+alert icmp any any -> $HOME_NET any (msg:"Someone is pinging"; itype:8; sid:1000000;)
+alert tcp any any -> $HOME_NET any (flags: S; msg:"Possible TCP DoS !! Be Careful Cogoport !!"; flow:stateless; threshold: type both, track by_dst, count 70, seconds 10; sid:1000001;rev:1;)
+alert tcp any any -> 192.168.1.1 22 (msg: "SSH Connection is detected"; sid:1000002;)
