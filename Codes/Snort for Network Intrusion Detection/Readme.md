@@ -45,3 +45,14 @@ Now open the folder /etc/snort/ on your device.
 29) sudo snort -A console -i wlo1 -c /etc/snort/snort.conf -l /var/log/snort -K ascii
 30) Before running the command make an empty log folder in the /var/ directory.
 31) Change the rules by commenting out the not required ones in the snort.conf file.
+
+The default way in which Snort applies its rules to packets may not be appropriate for all installations. The Pass rules
+are applied first, then the Drop rules, then the Alert rules and finally, Log rules are applied.
+Several command line options are available to change the order in which rule actions are taken.
+- "--alert-before-pass" option forces alert rules to take affect in favor of a pass rule.
+- "--treat-drop-as-alert" causes drop and reject rules and any associated alerts to be logged as alerts, rather
+then the normal action. This allows use of an inline policy with passive/IDS mode. The sdrop rules are not
+loaded.
+- "--process-all-events" option causes Snort to process every event associated with a packet, while taking the
+actions based on the rules ordering. Without this option (default case), only the events for the first action based
+on rules ordering are processed.
